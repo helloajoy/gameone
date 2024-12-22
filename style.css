@@ -1,0 +1,37 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 2px;
+  border: 10px solid black;
+  border-radius: 20px;
+  margin: 20px;
+}
+.flash{
+  background-color: white !important;
+}
+
+.div-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.btn-1{
+  background-color: #a94dff;
+}
+.btn-2{
+  background-color: #abe85c;
+}
+.btn-3{
+  background-color: #ff9f55;
+}
+.btn-4{
+  background-color: #ff3d64;
+}
